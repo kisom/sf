@@ -174,4 +174,3 @@ Proof.
   reflexivity. simpl.
   destruct c. intros H2. rewrite H2. reflexivity. reflexivity.
 Qed.
-
